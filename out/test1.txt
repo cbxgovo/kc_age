@@ -1,0 +1,12 @@
+d 13 C PDB d 18 O ðCO 2 Þ ; PDB d 18 O ðCO 2 Þ ; SMOW SK 3 -7 1870 Py Marble Meta 0.1 222.2 8 SK 3 -6 1867 Chl þ Epid þ Py þ
+The Qianlishan complex comprises five separate intrusions, including fine-grained porphyritic biotite granite (182-187 Ma, granite 1), medium-grained biotite-K feldspar granite (158-163 Ma, granite 2), fine-grained biotite and K feldspar granite (granite 3), granitic porphyry (144-146 Ma, granite 4), and diabase (142 Ma).
+The second intrusion (granite 2) consists of two facies: fine-mediumgrained biotite and K feldspar porphyritic granite (marginal phase) with an age of 160 to 162 Ma, and medium-grained biotite and K feldspar granite (central phase) with an age of 158 Ma.
+The age of this unit is 144 to 146 Ma.
+The Sm-Nd method has been used to analyze the Sm-Nd concentration, and data for pyroxene and garnet in the massive skarn (type II ore) associated with granite 2 yields an isochron age of 157 Ma.
+The host lithologies at Shizhuyuan include Precambrian (Sinian, 600-700 Ma), Middle and Upper Devonian, Lower Carboniferous, Jurassic, and Cretaceous sedimentary rocks.
+The granite body is a multiphase intrusion that was emplaced during the Yanshanian orogeny (Mesozoic), and has been dated by Rb-Sr, Sm-Nd, and 40 Ar-39 Ar methods, giving ages of 187 to 142 Ma (Table 1).
+The first intrusion (granite 1) consists of two facies: fine-grained tourmaline, biotite, and K feldspar porphyritic granite with an age of 187 to 183 Ma, and sericitized porphyry with an age of 182 Ma.
+The second intrusion (granite 2) consists of two facies: fine-mediumgrained biotite and K feldspar porphyritic granite (marginal phase) with an age of 160 to 162 Ma, and medium-grained biotite and K feldspar granite (central phase) with an age of 158 Ma.
+The age of this unit is 144 to 146 Ma.
+The second intrusion (granite 2) consists of two facies: fine-mediumgrained biotite and K feldspar porphyritic granite (marginal phase) with an age of 160 to 162 Ma, and medium-grained biotite and K feldspar granite (central phase) with an age of 158 Ma.
+The age of this unit is 144 to 146 Ma.

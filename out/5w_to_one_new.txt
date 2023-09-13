@@ -1,0 +1,1287 @@
+Accha ,28.7
+Adami ,9.0
+Agarak ,43.14
+Agua Rica ,6.1
+Aguablanca ,3.0
+Agylki ,112.5
+Aikengdelesite ,248.3
+Aitik ,1850.5
+Aketasi ,305.0
+Akshatau ,295.0
+Aksug ,511.0
+Aktogai ,327.0
+Alakha ,198.6
+Aleksandrovskoe ,162.0
+Ali Abad ,16.1
+Ali Javad ,27.0
+Almaden ,150.0
+Almalyk ,315.0
+Altaids ,250.0
+Altar ,10.5
+Altar North ,12.18
+Alumbrera ,7.2
+Ampucao ,0.51
+Amur ,125.0
+An ,155.0
+Andacollo ,103.6
+Anderson Mountain ,362.0
+Angelo ,208.4
+Anjerd ,10.0
+Anjiayingzi ,130.0
+Anjishan ,108.0
+Anqing ,138.1
+Antucoya ,142.0
+Aobaotu ,137.0
+Aolunhua ,135.0
+Aoyoute ,244.5
+Aqishan ,306.0
+Arasbaran ,27.0
+Ardlethan ,417.0
+Argentina ,14.0
+Arizona ,60.0
+Ashele ,387.5
+Asia ,52.5
+Assarel ,86.0
+Associated ,218.0
+Atlas ,109.0
+Awulale ,358.5
+Axi ,339.0
+Azerbaijan ,50.0
+Babaoshan ,140.0
+Babine ,51.5
+Babine Lake ,51.5
+Bacuri ,2712.0
+Bada ,39.0
+Badaguan ,203.6
+Baerzhe ,124.0
+Bagdad ,76.0
+Baghu ,44.0
+Baijintaizi ,25.35
+Bainaimiao ,445.0
+Bairendaba ,135.0
+Bairong ,12.1
+Baishan ,230.0
+Baishantang ,407.0
+Baituyingzi ,248.0
+Baixiangshan ,130.7
+Baiyanghe ,255.0
+Baiyinchagan ,140.0
+Baiyinnuoer ,140.0
+Baiyun ,220.0
+Baizhangyan ,138.0
+Baizhangzi ,222.0
+Bajiazi ,218.6
+Bakoudou ,2675.0
+Bakyrchik ,300.0
+Balcooma ,480.0
+Balipo ,144.0
+Balkash ,315.0
+Balkhash ,313.5
+Balong ,935.5
+Ban Houayxai ,292.5
+Banchang ,148.1
+Banduo ,202.7
+Bangbule ,82.5
+Bangong ,122.0
+Bangongco ,115.0
+Bangpu ,15.3
+Banlashan ,138.1
+Banska Stiavnica ,2.5
+Banxi ,785.0
+Baoanzhai ,135.0
+Baogutu ,313.0
+Baomai ,42.65
+Baoshan ,157.6
+Baoyintu ,1390.0
+Barneys Canyon ,34.9
+Barry ,2697.0
+Bashan ,635.0
+Batu Hijau ,3.7
+Bayan Obo ,742.0
+Bayanbaolege ,130.0
+Bayugo ,2.2
+Be ,92.2
+Beidabate ,300.0
+Beina ,64.8
+Beiya ,35.0
+Bell ,724.6
+Belt ,250.0
+Benso ,2157.0
+Berezitovoe ,4.4
+Bereznyaki ,428.0
+Bethlehem ,209.0
+Bi'r Tawilah ,660.0
+Bianjiadayuan ,139.0
+Big Bell ,2700.0
+Bilihe ,270.1
+Bilugangan ,238.0
+Bingham ,37.5
+Bingham Canyon ,37.0
+Binghugou ,164.0
+Bismark ,42.0
+Black Mountain ,2.85
+Bolcana ,2.8
+Boliden ,1892.0
+Bolong ,119.5
+Bonanza ,64.0
+Bondar Hanza ,28.0
+Bor ,84.6
+Bora ,1705.0
+Borgulikan ,125.0
+Borly ,316.3
+Borov Dol ,24.9
+Botija ,29.0
+Bou Skour ,570.0
+Boyongan ,2.2
+Bozshakol ,490.0
+Brahma ,13.9
+Breves ,1879.0
+British Columbia ,70.0
+Broken Hills ,7.1
+Buchim ,25.75
+Bucim ,24.51
+Budunhua ,151.0
+Buerkesidai ,335.53
+Bujinhei ,120.0
+Bulage ,302.0
+Bulgaria ,38.5
+Butte ,65.5
+Bystrinsky ,161.5
+Cadia East ,451.0
+Cadia Hill ,439.0
+Cadia Quarry ,439.3
+Caijiaping ,137.0
+Caixiashan ,301.0
+Calabona ,1.5
+Caledonian ,420.9
+California ,90.0
+Cananea ,63.9
+Candelaria ,111.5
+Cangyuan ,43.78
+Caosiyao ,148.5
+Capillitas ,6.29
+Caridad ,54.0
+Carlton ,280.5
+Carmacks ,108.7
+Carpathians ,28.0
+Casino ,74.3
+Caspiche ,19.0
+Catface ,40.7
+Cavancha ,23.81
+Celebration ,2662.0
+Centralni ,156.14
+Cerro Chorcha ,9.0
+Cerro Colorado ,27.7
+Cerro Corona ,14.4
+Cerro Quema ,70.7
+Cerro Rico ,14.0
+Cerro Verde ,26.2
+Cevizlidere ,25.0
+Chabu ,18.0
+Chagai ,23.0
+Chaganbulagen ,138.6
+Chaganhua ,243.0
+Chagele ,72.4
+Chah Firouzeh ,6.19
+Chah Zard ,6.2
+Chalmers ,31.7
+Chalukou ,148.0
+Chang'an ,34.2
+Chang'anbu ,182.1
+Chang'anpu ,128.1
+Changfagou ,114.0
+Changgou ,178.4
+Changhanboluo ,155.5
+Changpo ,93.4
+Changpu ,137.5
+Changpushan ,131.0
+Chaobuleng ,140.7
+Chapada ,850.0
+Charlestown ,470.0
+Charlotte ,2651.0
+Chating ,137.8
+Chatree ,244.0
+Chehelkureh ,33.6
+Chehugou ,240.0
+Chelopech ,91.25
+Chengba ,23.0
+Chengchao ,131.5
+Chengmenshan ,145.0
+Chentaitun ,162.0
+Chigou ,146.0
+Chimborazo ,1.7
+Chinkuashih ,1.0
+Chitudian ,137.0
+Chongjiang ,14.76
+Chongmuda ,30.0
+Choquelimpie ,6.6
+Chris ,205.0
+Chuchi ,188.0
+Chuquicamata ,30.0
+Ciemas ,17.0
+Cleo ,2660.0
+Cliff ,1880.0
+Climax ,27.5
+Cobre ,73.9
+Cobre Panama ,28.5
+Collahuasi ,244.0
+Colosa ,8.18
+Colquijirca ,11.45
+Copler ,48.0
+Copperhead ,2772.0
+Cordilleran ,41.6
+Coroccohuayco ,38.0
+Coronation Hill ,830.0
+Corvet Est ,2663.0
+Cotabambas ,3.3
+Cove ,34.2
+Coxheath ,620.0
+Crocetta ,7.0
+Cuajone ,52.4
+Cuihongshan ,195.0
+Cuona ,8.0
+Cupolymetallic ,82.5
+Curich ,3.5
+Da Hinggan Mountains ,290.0
+Dabaoshan ,166.6
+Dabate ,316.0
+Dabu ,16.0
+Dacaoping ,140.0
+Dachang ,94.0
+Daero Paulos ,880.0
+Dafang ,155.0
+Daheishan ,168.2
+Dahu ,218.0
+Dahutang ,141.0
+Dajing ,140.0
+Dali ,103.0
+Dalingkou ,112.5
+Daliugou Formation ,440.4
+Dalli ,16.9
+Damang ,2063.0
+Danba ,185.3
+Daolundaba ,135.75
+Dapai ,135.0
+Dapingba ,117.5
+Darasun ,159.6
+Darreh Zar ,14.81
+Darreh Zereshk ,16.0
+Daruoluolong ,139.0
+Dashigou ,221.5
+Dashihe ,186.7
+Dashui ,213.0
+Dastakert ,42.62
+Dasuji ,223.5
+Datongkeng ,148.0
+Datuanshan ,139.1
+Dawan ,141.75
+Dawangding ,436.4
+Demingding ,20.7
+Dengjitun ,174.0
+Derni ,345.0
+Deva ,10.0
+Dexin ,57.81
+Dexing ,170.0
+Dianfang ,136.2
+Diaoquan ,131.0
+Dibao ,121.0
+Dinkidi ,24.8
+Disseminated ,352.0
+Disuga ,218.5
+Divrigi ,74.0
+Diyanqinamu ,200.0
+Dizon ,2.7
+Dolores ,36.0
+Don Javier ,59.9
+Dong'an ,107.5
+Dongbulage ,162.1
+Dongfengbeishan ,185.4
+Dongfengshan ,811.0
+Dongga ,185.0
+Donggebi ,233.5
+Donggou ,116.4
+Dongguashan ,139.0
+Donggushan ,99.7
+Dongji ,116.6
+Dongjun ,138.6
+Dongleiwan ,143.4
+Dongnan ,135.0
+Dongshan ,116.0
+Dongshanwan ,149.0
+Dongshengmiao ,259.4
+Dongtian ,0.0
+Dongxiang ,161.0
+Dongyang ,159.0
+Dongyuan ,143.5
+Dongzhongla ,124.0
+Doupo ,125.1
+Douvray ,93.3
+Doyon ,2698.0
+Dry Creek ,359.0
+Duhuangling ,110.0
+Dujiadongwu ,109.5
+Dulong ,87.2
+Duobaoshan ,475.0
+Duobuza ,119.0
+Duolong ,118.0
+Duotoushan ,305.8
+El Abra ,38.0
+El Arco ,164.0
+El Durazno ,108.0
+El Galeno ,16.5
+El Laco ,2.0
+El Salvador ,41.0
+El Teniente ,5.415
+El Valle ,2.5
+Elatsite ,90.55
+Eliza ,5.7
+Elna ,119.5
+Emperor ,1.0
+Endako ,52.0
+Epithermal ,85.0
+Epoch ,137.5
+Erdaohezi ,134.0
+Erdenet ,240.0
+Erdenetiin Ovoo ,240.4
+Erdenetuin Obo ,40.0
+Ergu ,183.74
+Ermi ,96.24
+Ermiaogou ,104.8
+Ernest Henry ,1660.0
+Ershiyizhan ,129.0
+Ertsberg ,2.85
+Escondida ,32.5
+Escondida Norte ,265.8
+Fakos ,20.0
+Far Southeast ,1.45
+Favona ,6.07
+Fazenda Nova ,582.5
+Feie'shan ,140.0
+Feitais ,354.6
+Fenghuangshan ,142.0
+Fengshan ,143.5
+Fengshandong ,1.9
+Fin ,218.0
+Flat ,70.95
+Fort Knox ,92.5
+Fozichong ,100.0
+Francisco ,14.8
+Frieda ,12.55
+Frontera ,10.95
+Fu'anpu ,169.4
+Fujiashan ,131.0
+Fujiawu ,170.5
+Fukeshan ,148.7
+Furtei ,0.9
+Fuwan ,88.0
+Fuxing ,334.7
+Ga'erqiong ,86.8
+Gacun ,217.0
+Gaerqin ,219.0
+Gaerqiong ,90.0
+Gagok ,77.0
+Gaijing ,125.4
+Galale ,88.0
+Galeno ,17.0
+Galinge ,935.5
+Galore Creek ,201.3
+Gangjiang ,15.2
+Gangqiongla ,24.0
+Gaofeng ,92.5
+Gaogangshan ,250.7
+Gaojiabang ,145.0
+Gaojiashan ,232.7
+Gaosongshan ,100.0
+Gaoua ,2170.0
+Gazu ,69.0
+Gebunongba ,59.0
+Geita Hill ,2644.0
+Gibraltar ,1880.0
+Glenburgh ,1980.0
+Glojeh ,42.2
+Golden Cross ,6.9
+Golden Mile ,2673.0
+Golden Sunlight ,76.9
+Golpu ,8.745
+Gongpoquan ,404.0
+Goonumbla ,449.5
+Granberg ,5.0
+Grasberg ,3.0
+Greece ,31.5
+Guadalupe ,20.0
+Guandaokou Group ,1775.0
+Guanshan ,142.2
+Guaynopita ,92.4
+Gudongkeng ,73.0
+Guichon Creek ,210.0
+Guilingou ,197.2
+Guilinzheng ,127.6
+Guinaoang ,0.9
+Guishan ,402.0
+Gushan ,126.6
+Gutian ,160.0
+Guyana ,586.0
+Habo ,35.5
+Habo South ,36.0
+Hadamengou ,330.0
+Hadamiao ,271.0
+Haenam ,77.0
+Haft Cheshmeh ,27.61
+Haftcheshmeh ,22.14
+Hahaigang ,63.2
+Haib ,2000.0
+Haigou ,170.0
+Haisugou ,136.4
+Halasheng ,138.0
+Halasu ,376.9
+Halongxiuma ,100.0
+Handagai ,140.85
+Hannan ,815.0
+Haobugao ,140.0
+Haopinggou ,134.0
+Haquira ,33.18
+Hardat Tolgoi ,194.8
+Hasancelebi ,74.92
+Hashitu ,147.0
+Hatu ,300.0
+Hehuaping ,173.0
+Hehuashan ,132.8
+Heishantou ,347.0
+Hejiangkou ,225.5
+Hekanzi ,226.34
+Hemlo ,2685.0
+Henderson ,27.71
+Hercynian ,303.0
+Hermyingyi ,61.6
+Hersai ,418.0
+Hetaoping ,116.1
+Highland Valley ,209.0
+Hills ,85.0
+Honggoushan ,156.0
+Honghai ,435.0
+Hongling ,140.85
+Hongqiling ,216.0
+Hongshan ,83.0
+Hongshanliang ,269.0
+Hongshi ,434.2
+Hongyuan ,307.0
+Hornet ,2934.0
+Huaixi ,101.5
+Huanggang ,136.9
+Huanglongpu ,212.5
+Huangshandong ,282.0
+Huangshaping ,156.9
+Huangshuian ,211.0
+Huangtun ,131.0
+Huangtupo ,432.0
+Huangyangshan ,439.0
+Huanren ,128.2
+Huanuni ,24.0
+Huashan ,135.6
+Huatong ,127.6
+Huayangchuan ,208.4
+Hucun ,140.0
+Hucunnan ,140.03
+Hugo Dummett ,372.0
+Huinquintipa ,9.3
+Huitongshan ,402.0
+Huize ,204.4
+Hujiayu ,1952.0
+Huojihe ,180.5
+Huoshenmiao ,1.1
+Hutouya ,226.5
+Iju ,9.33
+Ilarion ,0.5
+Iron Cap ,200.2
+Iskra ,62.0
+Jebel Ohier ,730.0
+Jiadanggen ,227.0
+Jiagang ,18.7
+Jiama ,15.18
+Jiamante ,362.0
+Jiamantieliek ,313.0
+Jiamusi Massif ,493.0
+Jiande ,161.0
+Jianfengpo ,128.5
+Jiangjiatun ,158.0
+Jiangligou ,214.0
+Jiangnan ,146.4
+Jiangshan ,116.0
+Jiaojiguan ,119.6
+Jiaoxi ,14.5
+Jiapigou ,177.0
+Jiawula ,140.0
+Jiazishan ,129.0
+Jidetun ,168.9
+Jiepailing ,92.1
+Jigongcun ,22.0
+Jiguanshan ,149.0
+Jiguanshi ,139.8
+Jiguanzui ,138.2
+Jilongshan ,150.1
+Jinchang ,120.0
+Jinchanggouliang ,126.0
+Jinchangqing ,36.0
+Jincheng ,187.0
+Jinchuantang ,155.0
+Jinding ,26.5
+Jinduicheng ,141.5
+Jingbian ,134.0
+Jinjiling ,151.5
+Jinlonggou ,268.9
+Jinman ,50.0
+Jinsha ,42.0
+Jinshan ,332.5
+Jintingling ,122.0
+Jintonghu ,96.7
+Jiru ,48.6
+Jitoushan ,137.0
+Jiudingshan ,40.5
+Jiusangou ,108.1
+Joya ,19.2
+Junggar ,320.0
+Kadjaran ,26.5
+Kaerqueka ,227.0
+Kafi ,50.3
+Kahang ,16.1
+Kain ,24.0
+Kairagach ,291.0
+Kaladaban ,492.6
+Kalatage ,427.5
+Kalguty ,208.5
+Kalinovskoe ,429.4
+Kalmakyr ,315.0
+Kanggur ,290.0
+Karakartal ,45.0
+Karamay ,336.0
+Karangahake ,6.0
+Kartaldag ,38.5
+Kassiteres ,32.0
+Katbasu ,323.0
+Kay Tanda ,0.2
+Kayizi ,222.0
+Kekekaerde ,416.0
+Kekesai ,308.0
+Kekura ,115.0
+Kelu ,90.3
+Kendekeke ,228.0
+Kerman ,13.0
+Khatsavch ,366.6
+Khingan ,106.0
+Kidd Creek ,2714.0
+Kighal ,20.1
+Kingking ,11.4
+Kirganik ,69.0
+Kirovskoye ,125.0
+Kiruna ,1857.5
+Kiseljak ,32.4
+Kisladag ,11.2
+Knaben ,1036.0
+Kochbulak ,285.0
+Koloula ,1.525
+Konevinskoye ,448.5
+Kounrad ,320.0
+Kristineberg ,1883.0
+Kuangbei ,135.1
+Kubusu ,11.0
+Kucing Liar ,2.59
+Kuga ,106.0
+Kuh Panj ,12.96
+Kunshan ,148.17
+Kuntabin ,88.7
+Kuoerzhenkuola ,336.0
+Kuruer ,267.45
+Kuthori ,1599.0
+Laba ,88.0
+Ladolam ,0.55
+Lailisigao'er ,365.9
+Lailisigaoer ,377.0
+Lakange ,13.58
+Lalingzaohuo ,207.5
+Lamandau ,78.7
+Lamasu ,362.0
+Lamo ,94.0
+Langdu ,218.0
+Langlike ,455.8
+Langtongmen ,177.2
+Lanjia ,168.2
+Lanjiagou ,183.0
+Lannitang ,214.3
+Laochang ,83.3
+Laodou ,247.6
+Laojiagou ,234.9
+Laojiezi ,687.0
+Laoliwan ,132.0
+Laoshankou ,379.0
+Laowan ,132.5
+Laowangzhai ,33.0
+Laoyaling ,234.0
+Lar ,27.5
+Laramide ,60.0
+Larong ,93.9
+Las Picazas ,265.0
+Layer ,97.8
+Layered ,1063.0
+Lazurnoe ,100.0
+Leimengou ,132.4
+Lek ,287.0
+Lengshuibeigou ,137.9
+Lengshuigou ,145.0
+Lengshuikeng ,157.5
+Leon ,8.0
+Lepanto ,1.365
+Leqingla ,61.7
+Lermontovskoe ,126.0
+Liangshan ,824.0
+Lianhuashan ,140.0
+Liaoning ,162.0
+Liaotun ,96.0
+Lietinggang ,62.0
+Liguo ,130.8
+Lihir ,0.55
+Lijiagou ,214.0
+Lijiawan ,135.0
+Linghou ,155.0
+Linglong ,128.0
+Lishan ,132.0
+Lishanling ,109.5
+Liudaowaizi ,196.0
+Liuguan ,132.0
+Liuhuangshan ,18.1
+Liushashan ,262.0
+Liushengdian ,181.2
+Liyuan ,133.3
+Lizhuang ,27.41
+Lone Tree ,41.48
+Longgen ,61.2
+Longjiangting ,103.0
+Longmala ,56.3
+Longqiao ,130.5
+Longshan ,195.0
+Longtoushan ,103.3
+Lorraine ,176.77
+Los Alisos ,60.2
+Los Bronces ,6.3
+Los Humos ,74.0
+Los Pelambres ,10.0
+Luanchuan ,144.5
+Luanling ,2.0
+Luchun ,247.3
+Lucy ,63.8
+Luerma ,212.0
+Lugokanskoe ,144.5
+Luming ,178.0
+Lunwei ,170.0
+Luobodi ,24.56
+Luoboling ,104.6
+Luobuzhen ,21.1
+Luohe ,133.0
+Luokuidong ,113.0
+Luoyang ,134.0
+Luping ,36.2
+Machangqing ,35.3
+Madeira ,1830.0
+Madem Lakkos ,20.0
+Madneuli ,86.5
+Madrid ,10.1
+Maevatanana ,534.0
+Magdala ,440.0
+Magnetite ,186.9
+Magushan ,143.8
+Maher Abad ,39.0
+Makeng ,133.0
+Makou ,130.0
+Malala ,4.0
+Malanjkhand ,465.0
+Malartic ,2679.0
+Malasongduo ,37.6
+Mali ,202.0
+Malmbjerg ,25.7
+Malmyzh ,97.5
+Mangzong ,33.9
+Mansa Mina ,31.0
+Mantos Blancos ,155.5
+Maoduan ,147.0
+Maozaishan ,152.6
+Maozangsi ,455.5
+Maqui Maqui ,10.2
+Marathon ,1107.0
+Maratoto ,6.4
+Maria ,61.7
+Mariquita ,60.85
+Maronia ,29.8
+Martabe ,2.95
+Martha ,6.16
+Masjed Daghi ,20.5
+Matou ,147.0
+Mayo ,97.0
+Mayum ,30.0
+Medet ,79.5
+Meiduk ,12.5
+Meiling ,386.0
+Meishan ,16.0
+Meixian ,144.0
+Mengentaolegai ,242.3
+Menggongshan ,829.0
+Mengxi ,411.7
+Mengya'a ,55.5
+Metaliferi Mountains ,10.5
+Mexican ,40.0
+Michiquillay ,19.9
+Miduk ,12.96
+Miedzianka ,307.0
+Mike ,1.0
+Mikheevka ,365.0
+Mikheevskoe ,356.0
+Mikheevsky ,356.1
+Mikheyevsk ,356.0
+Milligan ,182.5
+Milpillas ,63.05
+Mina ,16.0
+Mindanao ,33.0
+Mingze ,27.0
+Minto ,76.5
+Mirador ,32.0
+Mongolia ,285.5
+Mont ,317.0
+Montana ,55.0
+Monte Negro ,111.3
+Moore ,83.5
+Morenci ,55.0
+Morrison ,53.2
+Mosizaote ,301.0
+Mount Carlton ,280.5
+Mount Charlotte ,2660.0
+Mount Kare ,0.1
+Mount Leyshon ,290.0
+Mount Milligan ,2.45
+Mount Pleasant ,9.0
+Mount Polley ,205.0
+Muguayuan ,224.2
+Mujicun ,141.0
+Muratdere ,50.0
+Murgul ,76.0
+Mushan ,140.0
+N'yavlenga ,125.0
+Nadun ,119.0
+Nakhodka ,141.0
+Nanmu ,14.445
+Nannihu ,143.5
+Naoniushan ,137.8
+Naozhi ,125.0
+Narigongma ,41.7
+Nariniya ,38.0
+Naruo ,119.8
+Narusongduo ,62.5
+Nating ,119.0
+Neacola ,95.0
+Nena ,750.0
+Neoarchean ,2537.0
+Nevada ,122.5
+Neves Corvo ,354.0
+Newton ,23.0
+Newtongmen ,174.0
+Niaz ,19.53
+Nihe ,132.4
+Nimu ,91.0
+Nistru ,8.65
+Niutougou ,127.5
+Nongping ,108.0
+Norte ,10.2
+Norway ,650.0
+Now Chun ,13.2
+Nowchun ,12.5
+Nucleus ,2.0
+Nuevo Chaquiro ,7.47
+Nujiang ,116.5
+Nuocang ,72.4
+Nuri ,24.77
+Nurkazgan ,410.0
+Nyankanga ,2699.0
+Obuasi ,2054.0
+Ohui ,6.9
+Ok Tedi ,2.0
+Olympias ,20.0
+Olympic Dam ,1590.0
+Omai ,2094.0
+Opache ,36.5
+Oubulage ,280.0
+Ouro Roxo ,898.0
+Oyu Tolgoi ,370.0
+Pakistan ,15.0
+Pakistan Chagai ,15.0
+Pangjiahe ,230.0
+Pangui ,154.5
+Panguna ,3.5
+Panjia ,140.0
+Panormos Bay ,14.0
+Paodaoling ,144.0
+Paradise Peak ,10.0
+Parkam ,11.0
+Pasco ,12.43
+Pascua ,7.8
+Patricia ,21.0
+Peak Hill ,409.0
+Pebble ,90.0
+Pediment ,11.5
+Penacho Blanco ,13.5
+Perama Hill ,30.0
+Perkoa ,2175.0
+Perseverance ,725.8
+Peru ,22.0
+Peschanka ,141.0
+Petropavlovskoe ,410.0
+Philex ,1.5
+Phu Kham ,304.7
+Pingdingshan ,225.9
+Pingshui ,910.0
+Pingtan ,427.0
+Pingtoubei ,438.0
+Pirquitas ,9.75
+Plaka ,8.27
+Plavica ,24.51
+Poboya ,3.5
+Poieni ,7.4
+Pontides ,65.0
+Porgera ,6.0
+Portugal ,314.0
+Postcollisional ,18.0
+Precambrian ,511.0
+Productora ,128.0
+Prominent Hill ,1585.0
+Pueblo Viejo ,111.4
+Pulang ,216.13
+Pusangguo ,14.8
+Puziwan ,139.2
+Qarachilar ,31.22
+Qiagong ,49.7
+Qiangdui ,30.0
+Qiaomaishan ,135.1
+Qiaoxiahala ,377.5
+Qibaoshan ,152.7
+Qiguling ,148.5
+Qimantage ,193.0
+Qingcaoshan ,118.0
+Qinglong ,145.0
+Qiongheba ,413.0
+Qiushuwan ,147.0
+Qiyugou ,131.35
+Quanzigou ,162.0
+Quebrada Blanca ,35.0
+Quellaveco ,55.5
+Questa ,25.4
+Qulong ,16.009
+Radka ,41.325
+Radomiro Tomic ,32.0
+Radzimowice ,317.0
+Raigan ,29.7
+Reagan ,29.3
+Reconnaissance ,170.0
+Recsk ,28.0
+Reko Diq ,12.0
+Relin ,81.7
+Renison ,562.5
+Reshui ,229.5
+Resolution ,157.6
+Ridgeway ,455.0
+Rio Blanco ,10.0
+Rodeo ,24.0
+Romania ,15.0
+Rongga ,89.0
+Rongna ,119.5
+Rosario ,34.8
+Rosia Poieni ,3.0
+Ruanjiawan ,142.0
+Ruoji ,59.0
+Russia ,230.0
+Sabagaogoumen ,236.0
+Sadaigoumen ,236.5
+Saibo ,379.55
+Saindak ,22.3
+Saishitang ,222.6
+Salvadora ,20.0
+Sams Creek ,133.5
+San Blas ,334.0
+San Jorge ,288.0
+San Pedro ,263.0
+Sancha ,184.6
+Sanchakou ,430.3
+Sandaozhuang ,144.0
+Sandiao ,9.55
+Sangan ,40.0
+Sangbujiala ,93.3
+Sangri ,114.5
+Sanjiaowo ,140.0
+Sankuanggou ,175.9
+Sanshandao ,121.3
+Santa Cruz ,64.0
+Santa Rita ,60.0
+Santa Rosa ,16.2
+Sanyuangou ,116.7
+Sar Cheshmeh ,13.0
+Sarcheshmeh ,12.5
+Sari Gunay ,11.15
+Sarsuk ,383.0
+Sarycheku ,315.0
+Sawusi ,3.1
+Sebuta ,90.0
+Sechangi ,37.5
+Sedex ,1275.0
+Seleteguole ,289.0
+Sena ,121.5
+Senj ,40.0
+Serrinha ,2029.0
+Several ,155.0
+Shadan ,38.0
+Shakhtama ,159.55
+Shamlugh ,155.0
+Shangalon ,38.7
+Shangfanggou ,141.5
+Shanggusi ,122.5
+Shangmushui ,466.6
+Shapinggou ,120.0
+Shapoling ,129.7
+Sharang ,52.3
+Shaxi ,130.5
+Shedong ,437.8
+Shengmikeng ,138.3
+Shenshan ,161.2
+Shesuo ,108.0
+Shihu ,120.7
+Shijiawan ,141.5
+Shilu ,104.34
+Shimadong ,163.7
+Shimengou ,319.0
+Shimensi ,143.0
+Shipingchuan ,104.9
+Shiweidong ,142.0
+Shiwu ,607.5
+Shiyaogou ,133.5
+Shizhuyuan ,154.0
+Shizilishan ,139.0
+Shizishan ,138.4
+Shizitou ,162.0
+Shotgun ,67.32
+Shuangjianzishan ,147.0
+Shuangqishan ,153.4
+Shuangshan ,844.0
+Shuibaiyang ,65.12
+Shujiadian ,139.85
+Shujigou ,0.001
+Shuteen ,325.4
+Siah Kamar ,30.9
+Sierrita ,24.0
+Sigma ,10.0
+Sin Quyen ,840.0
+Single ,240.5
+Sinongduo ,62.0
+Siruyidie'er ,13.34
+Sisson Brook ,432.1
+Skellefte Group ,1878.0
+Skouries ,19.5
+Snowfield ,191.1
+Songnuo ,220.0
+Songshugou ,889.0
+Songxi ,92.5
+Sora ,418.5
+South Wales ,435.0
+Sovereign ,6.7
+Spence ,27.7
+Squaw Peak ,738.0
+St Demetrios ,32.0
+Starra ,1594.0
+Stawell Wonga ,370.0
+Stikine ,215.5
+Stypsi ,3.0
+Suaqui Verde ,56.7
+Such ,155.0
+Sukhoi Log ,439.0
+Summitville ,24.0
+Sungun ,20.69
+Sunrise Dam ,11.0
+Suoerkuduke ,320.0
+Sur ,6.4
+Suyunhe ,296.1
+Sweden ,1798.0
+Sweet Home ,25.7
+Syama ,2100.0
+Taibudai ,137.8
+Tainskoe ,860.0
+Taipingchuan ,202.0
+Taipinggou ,130.0
+Taipingshan ,132.3
+Takht ,25.0
+Taking ,155.0
+Talatui ,159.6
+Taldy Bulak ,370.0
+Taldybulak Levoberezhny ,511.0
+Talitsa ,299.1
+Tallberg ,9.0
+Taloveis ,2720.0
+Tampakan ,6.06
+Tangbula ,20.9
+Tangjiaping ,118.1
+Tangse ,8.7
+Tangzhangzi ,173.0
+Tanjeel ,23.0
+Taocun ,22.8
+Taohuazui ,138.5
+Taolaituo ,133.0
+Taolin ,135.4
+Taoxihu ,139.06
+Taqian ,161.0
+Tarutinsk ,356.0
+Tasite ,295.5
+Taurus ,70.5
+Tawuerbieke ,349.0
+Taylor Creek ,27.92
+Teniente ,5.45
+Tepeoba ,25.5
+Tertiary ,43.0
+Thanewasna ,1587.0
+Tharsis ,26.0
+Thirteen ,159.5
+Tianhexing ,117.0
+Tianhu ,459.0
+Tianmugou ,122.1
+Tiantang ,98.1
+Tiantangshan ,134.0
+Tiegelong ,121.5
+Tiegelongnan ,110.0
+Tien Shan ,319.0
+Tieshan ,138.5
+Tighza ,254.0
+Tinggong ,16.4
+Tintaya ,36.0
+Tl ,314.0
+Tocantinzinho ,1989.1
+Tolgoi ,370.0
+Tominsk ,9.0
+Tongchang ,36.0
+Tongchanggou ,83.5
+Tongcun ,161.0
+Tonggou ,302.2
+Tongguanshan ,140.0
+Tongjing ,129.0
+Tongkeng ,93.9
+Tongkengzhang ,104.9
+Tongkuangyu ,2160.0
+Tonglushan ,139.0
+Tongmugou ,1919.0
+Tongshan ,310.5
+Tongshankou ,140.6
+Tongshanling ,161.0
+Tonian ,841.4
+Toquepala ,55.5
+Toromocho ,2.6
+Tosham ,817.5
+Touzha ,96.0
+Touzlar ,17.5
+Tricolor ,104.0
+Tsagaan Suvarga ,370.0
+Tuanjiegou ,108.5
+Tuketuke ,288.3
+Tumen ,190.0
+Turkish ,19.53
+Turquoise Gulch ,42.25
+Turquoise Ridge ,92.0
+Tuwu ,332.3
+Uchkoshkon ,276.0
+Ujina ,35.0
+Ulan Uzhur ,224.0
+Ulandler ,2.3
+Ulsan ,58.0
+Unlike ,88.6
+Urals ,375.0
+Uranium ,132.0
+Uspallata ,0.3
+Vaikijaur ,1750.0
+Valea Morii ,1.6
+Valley ,136.0
+Variscan ,310.0
+Veliki Krivelj ,84.6
+Verde ,37.45
+Victoria ,370.0
+Vlaykov Vruh ,85.0
+Voluntad ,316.0
+Voznesensk ,380.0
+Vysokogorskoe ,79.0
+Wafi ,9.08
+Waiorongomai ,5.74
+Waisoi ,6.5
+Walegen ,235.0
+Wallaby ,2662.0
+Wanbaoyuan ,127.6
+Wandao ,436.0
+Wangjiazhuang ,128.3
+Wangpingxigou ,117.0
+Washan ,128.0
+Wassa ,2174.0
+Weibao ,391.3
+Weijia ,159.0
+Weilasituo ,135.0
+Weiquan ,297.0
+Wenquan ,220.0
+Weondong ,79.37
+Widespread ,160.0
+Witwatersrand ,2820.0
+Wolverine ,1646.0
+Wonga ,406.5
+Woodlawn ,375.0
+Woxi ,200.0
+Wu ,168.3
+Wudaogou ,253.1
+Wulaga ,111.0
+Wulandele ,134.0
+Wulanwuzhuer ,224.0
+Wulong ,127.5
+Wunugetu ,100.0
+Wunugetushan ,180.4
+Wurinitu ,137.7
+Wushan ,145.0
+Wuziqilong ,102.5
+Xiadeboli ,244.0
+Xiadian ,125.0
+Xiajinbao ,158.65
+Xianglushan ,127.5
+Xiangshan ,134.5
+Xiaobaishitou ,242.0
+Xiaodonggou ,141.75
+Xiaoduobaoshan ,176.0
+Xiaofan ,137.0
+Xiaohekou ,145.0
+Xiaohongshilazi ,225.0
+Xiaohulishan ,227.2
+Xiaojiashan ,227.0
+Xiaojiayingzi ,177.6
+Xiaokele ,147.9
+Xiaokelehe ,148.7
+Xiaoliugou ,450.0
+Xiaolonghe ,72.0
+Xiaonanshan ,82.0
+Xiaorequanzi ,352.5
+Xiaosigou ,134.0
+Xiaotazigou ,236.0
+Xiaotongjiapuzi ,233.0
+Xiaotuergen ,400.2
+Xiaowolong ,260.0
+Xiaoxinancha ,110.0
+Xiasai ,101.0
+Xiatongling ,152.77
+Xiayingfang ,162.7
+Xiemisitai ,418.2
+Xierqu ,385.0
+Xietongmen ,172.4
+Xifanping ,35.8
+Xigou ,218.0
+Xikuangshan ,137.5
+Xilekuduke ,325.0
+Xiletekehalasu ,376.9
+Xiling ,145.8
+Xin'gaguo ,59.66
+Xinan ,107.0
+Xingjiashan ,155.0
+Xingluokeng ,152.5
+Xingmeng ,162.0
+Xingshan ,168.2
+Xinhualong ,170.0
+Xinliaodong ,161.0
+Xinping ,442.7
+Xinqiao ,138.1
+Xinxing ,123.0
+Xiongcun ,164.0
+Xiongmei ,108.0
+Xishadegai ,225.5
+Xishan ,80.0
+Xiuwacu ,83.0
+Xoconostle ,4.7
+Xuejiping ,218.5
+Xulaojiugou ,180.55
+Yaguila ,62.6
+Yaman Kasy ,421.0
+Yanbei ,133.5
+Yandong ,334.0
+Yangbin ,102.0
+Yangchang ,138.5
+Yangchongli ,140.7
+Yangchuling ,142.0
+Yangdong ,339.0
+Yanghuidongzi ,193.9
+Yangjingou ,251.0
+Yangla ,230.0
+Yangshan ,215.5
+Yanjiagou ,140.0
+Yanshan Epoch ,850.0
+Yanxi ,326.2
+Yao'an ,35.75
+Yaochong ,137.0
+Yaojiagou ,169.0
+Yaojialing ,139.2
+Yashan ,152.77
+Yata ,146.5
+Yazigou ,224.7
+Yechangping ,144.5
+Yejiwei ,154.25
+Yemaquan ,228.4
+Yerington ,168.7
+Yili ,320.5
+Yindonggou ,429.3
+Yingchengzi ,249.0
+Yingwuling ,80.07
+Yinjiagou ,143.0
+Yinkeng ,125.3
+Yinshan ,169.0
+Yinyan ,80.0
+Yixingzhai ,134.0
+Yongping ,160.0
+Yongxin ,119.0
+Youmapo ,106.5
+Yu'erya ,172.5
+Yuanzhuding ,156.35
+Yubileinoe ,381.0
+Yuchiling ,135.0
+Yudai ,427.5
+Yuejinshan ,120.0
+Yueyang ,101.19
+Yuhai ,429.6
+Yujiadian ,137.0
+Yuku ,146.0
+Yuleken ,335.0
+Yulekenhalasu ,376.5
+Yulong ,39.05
+Yuntoujie ,216.8
+Zafarghand ,21.0
+Zalaga ,41.0
+Zaldivar ,38.0
+Zaozigou ,239.5
+Zarshuran ,14.2
+Zebuxia ,54.9
+Zefreh ,21.2
+Zelenodol ,418.3
+Zhaceqiao ,145.0
+Zhaiwa ,220.0
+Zhangsangou ,109.0
+Zhaxikang ,19.3
+Zhengguang ,475.9
+Zhenyuan ,45.0
+Zhibula ,16.9
+Zhifang ,348.0
+Zhifanggou ,24.56
+Zhilingtou ,113.0
+Zhireken ,159.6
+Zhonghe ,131.0
+Zhongjia ,131.5
+Zhongliao ,98.0
+Zhongqiuyang ,161.0
+Zhongtiaoshan ,2140.5
+Zhujiding ,82.9
+Zhunsujihua ,298.2
+Zhunuo ,13.85
+Zhushahong ,170.7
+Zhuxi ,149.2
+Zhuxiling ,143.7
+Zhuyuangou ,117.7
+Zijinshan ,105.0
+Zoujiashan ,112.5
+Zudong ,807.5
+['Accha ', 'Adami ', 'Agarak ', 'Agua Rica ', 'Aguablanca ', 'Agylki ', 'Aikengdelesite ', 'Aitik ', 'Aketasi ', 'Akshatau ', 'Aksug ', 'Aktogai ', 'Alakha ', 'Aleksandrovskoe ', 'Ali Abad ', 'Ali Javad ', 'Almaden ', 'Almalyk ', 'Altaids ', 'Altar ', 'Altar North ', 'Alumbrera ', 'Ampucao ', 'Amur ', 'An ', 'Andacollo ', 'Anderson Mountain ', 'Angelo ', 'Anjerd ', 'Anjiayingzi ', 'Anjishan ', 'Anqing ', 'Antucoya ', 'Aobaotu ', 'Aolunhua ', 'Aoyoute ', 'Aqishan ', 'Arasbaran ', 'Ardlethan ', 'Argentina ', 'Arizona ', 'Ashele ', 'Asia ', 'Assarel ', 'Associated ', 'Atlas ', 'Awulale ', 'Axi ', 'Azerbaijan ', 'Babaoshan ', 'Babine ', 'Babine Lake ', 'Bacuri ', 'Bada ', 'Badaguan ', 'Baerzhe ', 'Bagdad ', 'Baghu ', 'Baijintaizi ', 'Bainaimiao ', 'Bairendaba ', 'Bairong ', 'Baishan ', 'Baishantang ', 'Baituyingzi ', 'Baixiangshan ', 'Baiyanghe ', 'Baiyinchagan ', 'Baiyinnuoer ', 'Baiyun ', 'Baizhangyan ', 'Baizhangzi ', 'Bajiazi ', 'Bakoudou ', 'Bakyrchik ', 'Balcooma ', 'Balipo ', 'Balkash ', 'Balkhash ', 'Balong ', 'Ban Houayxai ', 'Banchang ', 'Banduo ', 'Bangbule ', 'Bangong ', 'Bangongco ', 'Bangpu ', 'Banlashan ', 'Banska Stiavnica ', 'Banxi ', 'Baoanzhai ', 'Baogutu ', 'Baomai ', 'Baoshan ', 'Baoyintu ', 'Barneys Canyon ', 'Barry ', 'Bashan ', 'Batu Hijau ', 'Bayan Obo ', 'Bayanbaolege ', 'Bayugo ', 'Be ', 'Beidabate ', 'Beina ', 'Beiya ', 'Bell ', 'Belt ', 'Benso ', 'Berezitovoe ', 'Bereznyaki ', 'Bethlehem ', "Bi'r Tawilah ", 'Bianjiadayuan ', 'Big Bell ', 'Bilihe ', 'Bilugangan ', 'Bingham ', 'Bingham Canyon ', 'Binghugou ', 'Bismark ', 'Black Mountain ', 'Bolcana ', 'Boliden ', 'Bolong ', 'Bonanza ', 'Bondar Hanza ', 'Bor ', 'Bora ', 'Borgulikan ', 'Borly ', 'Borov Dol ', 'Botija ', 'Bou Skour ', 'Boyongan ', 'Bozshakol ', 'Brahma ', 'Breves ', 'British Columbia ', 'Broken Hills ', 'Buchim ', 'Bucim ', 'Budunhua ', 'Buerkesidai ', 'Bujinhei ', 'Bulage ', 'Bulgaria ', 'Butte ', 'Bystrinsky ', 'Cadia East ', 'Cadia Hill ', 'Cadia Quarry ', 'Caijiaping ', 'Caixiashan ', 'Calabona ', 'Caledonian ', 'California ', 'Cananea ', 'Candelaria ', 'Cangyuan ', 'Caosiyao ', 'Capillitas ', 'Caridad ', 'Carlton ', 'Carmacks ', 'Carpathians ', 'Casino ', 'Caspiche ', 'Catface ', 'Cavancha ', 'Celebration ', 'Centralni ', 'Cerro Chorcha ', 'Cerro Colorado ', 'Cerro Corona ', 'Cerro Quema ', 'Cerro Rico ', 'Cerro Verde ', 'Cevizlidere ', 'Chabu ', 'Chagai ', 'Chaganbulagen ', 'Chaganhua ', 'Chagele ', 'Chah Firouzeh ', 'Chah Zard ', 'Chalmers ', 'Chalukou ', "Chang'an ", "Chang'anbu ", "Chang'anpu ", 'Changfagou ', 'Changgou ', 'Changhanboluo ', 'Changpo ', 'Changpu ', 'Changpushan ', 'Chaobuleng ', 'Chapada ', 'Charlestown ', 'Charlotte ', 'Chating ', 'Chatree ', 'Chehelkureh ', 'Chehugou ', 'Chelopech ', 'Chengba ', 'Chengchao ', 'Chengmenshan ', 'Chentaitun ', 'Chigou ', 'Chimborazo ', 'Chinkuashih ', 'Chitudian ', 'Chongjiang ', 'Chongmuda ', 'Choquelimpie ', 'Chris ', 'Chuchi ', 'Chuquicamata ', 'Ciemas ', 'Cleo ', 'Cliff ', 'Climax ', 'Cobre ', 'Cobre Panama ', 'Collahuasi ', 'Colosa ', 'Colquijirca ', 'Copler ', 'Copperhead ', 'Cordilleran ', 'Coroccohuayco ', 'Coronation Hill ', 'Corvet Est ', 'Cotabambas ', 'Cove ', 'Coxheath ', 'Crocetta ', 'Cuajone ', 'Cuihongshan ', 'Cuona ', 'Cupolymetallic ', 'Curich ', 'Da Hinggan Mountains ', 'Dabaoshan ', 'Dabate ', 'Dabu ', 'Dacaoping ', 'Dachang ', 'Daero Paulos ', 'Dafang ', 'Daheishan ', 'Dahu ', 'Dahutang ', 'Dajing ', 'Dali ', 'Dalingkou ', 'Daliugou Formation ', 'Dalli ', 'Damang ', 'Danba ', 'Daolundaba ', 'Dapai ', 'Dapingba ', 'Darasun ', 'Darreh Zar ', 'Darreh Zereshk ', 'Daruoluolong ', 'Dashigou ', 'Dashihe ', 'Dashui ', 'Dastakert ', 'Dasuji ', 'Datongkeng ', 'Datuanshan ', 'Dawan ', 'Dawangding ', 'Demingding ', 'Dengjitun ', 'Derni ', 'Deva ', 'Dexin ', 'Dexing ', 'Dianfang ', 'Diaoquan ', 'Dibao ', 'Dinkidi ', 'Disseminated ', 'Disuga ', 'Divrigi ', 'Diyanqinamu ', 'Dizon ', 'Dolores ', 'Don Javier ', "Dong'an ", 'Dongbulage ', 'Dongfengbeishan ', 'Dongfengshan ', 'Dongga ', 'Donggebi ', 'Donggou ', 'Dongguashan ', 'Donggushan ', 'Dongji ', 'Dongjun ', 'Dongleiwan ', 'Dongnan ', 'Dongshan ', 'Dongshanwan ', 'Dongshengmiao ', 'Dongtian ', 'Dongxiang ', 'Dongyang ', 'Dongyuan ', 'Dongzhongla ', 'Doupo ', 'Douvray ', 'Doyon ', 'Dry Creek ', 'Duhuangling ', 'Dujiadongwu ', 'Dulong ', 'Duobaoshan ', 'Duobuza ', 'Duolong ', 'Duotoushan ', 'El Abra ', 'El Arco ', 'El Durazno ', 'El Galeno ', 'El Laco ', 'El Salvador ', 'El Teniente ', 'El Valle ', 'Elatsite ', 'Eliza ', 'Elna ', 'Emperor ', 'Endako ', 'Epithermal ', 'Epoch ', 'Erdaohezi ', 'Erdenet ', 'Erdenetiin Ovoo ', 'Erdenetuin Obo ', 'Ergu ', 'Ermi ', 'Ermiaogou ', 'Ernest Henry ', 'Ershiyizhan ', 'Ertsberg ', 'Escondida ', 'Escondida Norte ', 'Fakos ', 'Far Southeast ', 'Favona ', 'Fazenda Nova ', "Feie'shan ", 'Feitais ', 'Fenghuangshan ', 'Fengshan ', 'Fengshandong ', 'Fin ', 'Flat ', 'Fort Knox ', 'Fozichong ', 'Francisco ', 'Frieda ', 'Frontera ', "Fu'anpu ", 'Fujiashan ', 'Fujiawu ', 'Fukeshan ', 'Furtei ', 'Fuwan ', 'Fuxing ', "Ga'erqiong ", 'Gacun ', 'Gaerqin ', 'Gaerqiong ', 'Gagok ', 'Gaijing ', 'Galale ', 'Galeno ', 'Galinge ', 'Galore Creek ', 'Gangjiang ', 'Gangqiongla ', 'Gaofeng ', 'Gaogangshan ', 'Gaojiabang ', 'Gaojiashan ', 'Gaosongshan ', 'Gaoua ', 'Gazu ', 'Gebunongba ', 'Geita Hill ', 'Gibraltar ', 'Glenburgh ', 'Glojeh ', 'Golden Cross ', 'Golden Mile ', 'Golden Sunlight ', 'Golpu ', 'Gongpoquan ', 'Goonumbla ', 'Granberg ', 'Grasberg ', 'Greece ', 'Guadalupe ', 'Guandaokou Group ', 'Guanshan ', 'Guaynopita ', 'Gudongkeng ', 'Guichon Creek ', 'Guilingou ', 'Guilinzheng ', 'Guinaoang ', 'Guishan ', 'Gushan ', 'Gutian ', 'Guyana ', 'Habo ', 'Habo South ', 'Hadamengou ', 'Hadamiao ', 'Haenam ', 'Haft Cheshmeh ', 'Haftcheshmeh ', 'Hahaigang ', 'Haib ', 'Haigou ', 'Haisugou ', 'Halasheng ', 'Halasu ', 'Halongxiuma ', 'Handagai ', 'Hannan ', 'Haobugao ', 'Haopinggou ', 'Haquira ', 'Hardat Tolgoi ', 'Hasancelebi ', 'Hashitu ', 'Hatu ', 'Hehuaping ', 'Hehuashan ', 'Heishantou ', 'Hejiangkou ', 'Hekanzi ', 'Hemlo ', 'Henderson ', 'Hercynian ', 'Hermyingyi ', 'Hersai ', 'Hetaoping ', 'Highland Valley ', 'Hills ', 'Honggoushan ', 'Honghai ', 'Hongling ', 'Hongqiling ', 'Hongshan ', 'Hongshanliang ', 'Hongshi ', 'Hongyuan ', 'Hornet ', 'Huaixi ', 'Huanggang ', 'Huanglongpu ', 'Huangshandong ', 'Huangshaping ', 'Huangshuian ', 'Huangtun ', 'Huangtupo ', 'Huangyangshan ', 'Huanren ', 'Huanuni ', 'Huashan ', 'Huatong ', 'Huayangchuan ', 'Hucun ', 'Hucunnan ', 'Hugo Dummett ', 'Huinquintipa ', 'Huitongshan ', 'Huize ', 'Hujiayu ', 'Huojihe ', 'Huoshenmiao ', 'Hutouya ', 'Iju ', 'Ilarion ', 'Iron Cap ', 'Iskra ', 'Jebel Ohier ', 'Jiadanggen ', 'Jiagang ', 'Jiama ', 'Jiamante ', 'Jiamantieliek ', 'Jiamusi Massif ', 'Jiande ', 'Jianfengpo ', 'Jiangjiatun ', 'Jiangligou ', 'Jiangnan ', 'Jiangshan ', 'Jiaojiguan ', 'Jiaoxi ', 'Jiapigou ', 'Jiawula ', 'Jiazishan ', 'Jidetun ', 'Jiepailing ', 'Jigongcun ', 'Jiguanshan ', 'Jiguanshi ', 'Jiguanzui ', 'Jilongshan ', 'Jinchang ', 'Jinchanggouliang ', 'Jinchangqing ', 'Jincheng ', 'Jinchuantang ', 'Jinding ', 'Jinduicheng ', 'Jingbian ', 'Jinjiling ', 'Jinlonggou ', 'Jinman ', 'Jinsha ', 'Jinshan ', 'Jintingling ', 'Jintonghu ', 'Jiru ', 'Jitoushan ', 'Jiudingshan ', 'Jiusangou ', 'Joya ', 'Junggar ', 'Kadjaran ', 'Kaerqueka ', 'Kafi ', 'Kahang ', 'Kain ', 'Kairagach ', 'Kaladaban ', 'Kalatage ', 'Kalguty ', 'Kalinovskoe ', 'Kalmakyr ', 'Kanggur ', 'Karakartal ', 'Karamay ', 'Karangahake ', 'Kartaldag ', 'Kassiteres ', 'Katbasu ', 'Kay Tanda ', 'Kayizi ', 'Kekekaerde ', 'Kekesai ', 'Kekura ', 'Kelu ', 'Kendekeke ', 'Kerman ', 'Khatsavch ', 'Khingan ', 'Kidd Creek ', 'Kighal ', 'Kingking ', 'Kirganik ', 'Kirovskoye ', 'Kiruna ', 'Kiseljak ', 'Kisladag ', 'Knaben ', 'Kochbulak ', 'Koloula ', 'Konevinskoye ', 'Kounrad ', 'Kristineberg ', 'Kuangbei ', 'Kubusu ', 'Kucing Liar ', 'Kuga ', 'Kuh Panj ', 'Kunshan ', 'Kuntabin ', 'Kuoerzhenkuola ', 'Kuruer ', 'Kuthori ', 'Laba ', 'Ladolam ', "Lailisigao'er ", 'Lailisigaoer ', 'Lakange ', 'Lalingzaohuo ', 'Lamandau ', 'Lamasu ', 'Lamo ', 'Langdu ', 'Langlike ', 'Langtongmen ', 'Lanjia ', 'Lanjiagou ', 'Lannitang ', 'Laochang ', 'Laodou ', 'Laojiagou ', 'Laojiezi ', 'Laoliwan ', 'Laoshankou ', 'Laowan ', 'Laowangzhai ', 'Laoyaling ', 'Lar ', 'Laramide ', 'Larong ', 'Las Picazas ', 'Layer ', 'Layered ', 'Lazurnoe ', 'Leimengou ', 'Lek ', 'Lengshuibeigou ', 'Lengshuigou ', 'Lengshuikeng ', 'Leon ', 'Lepanto ', 'Leqingla ', 'Lermontovskoe ', 'Liangshan ', 'Lianhuashan ', 'Liaoning ', 'Liaotun ', 'Lietinggang ', 'Liguo ', 'Lihir ', 'Lijiagou ', 'Lijiawan ', 'Linghou ', 'Linglong ', 'Lishan ', 'Lishanling ', 'Liudaowaizi ', 'Liuguan ', 'Liuhuangshan ', 'Liushashan ', 'Liushengdian ', 'Liyuan ', 'Lizhuang ', 'Lone Tree ', 'Longgen ', 'Longjiangting ', 'Longmala ', 'Longqiao ', 'Longshan ', 'Longtoushan ', 'Lorraine ', 'Los Alisos ', 'Los Bronces ', 'Los Humos ', 'Los Pelambres ', 'Luanchuan ', 'Luanling ', 'Luchun ', 'Lucy ', 'Luerma ', 'Lugokanskoe ', 'Luming ', 'Lunwei ', 'Luobodi ', 'Luoboling ', 'Luobuzhen ', 'Luohe ', 'Luokuidong ', 'Luoyang ', 'Luping ', 'Machangqing ', 'Madeira ', 'Madem Lakkos ', 'Madneuli ', 'Madrid ', 'Maevatanana ', 'Magdala ', 'Magnetite ', 'Magushan ', 'Maher Abad ', 'Makeng ', 'Makou ', 'Malala ', 'Malanjkhand ', 'Malartic ', 'Malasongduo ', 'Mali ', 'Malmbjerg ', 'Malmyzh ', 'Mangzong ', 'Mansa Mina ', 'Mantos Blancos ', 'Maoduan ', 'Maozaishan ', 'Maozangsi ', 'Maqui Maqui ', 'Marathon ', 'Maratoto ', 'Maria ', 'Mariquita ', 'Maronia ', 'Martabe ', 'Martha ', 'Masjed Daghi ', 'Matou ', 'Mayo ', 'Mayum ', 'Medet ', 'Meiduk ', 'Meiling ', 'Meishan ', 'Meixian ', 'Mengentaolegai ', 'Menggongshan ', 'Mengxi ', "Mengya'a ", 'Metaliferi Mountains ', 'Mexican ', 'Michiquillay ', 'Miduk ', 'Miedzianka ', 'Mike ', 'Mikheevka ', 'Mikheevskoe ', 'Mikheevsky ', 'Mikheyevsk ', 'Milligan ', 'Milpillas ', 'Mina ', 'Mindanao ', 'Mingze ', 'Minto ', 'Mirador ', 'Mongolia ', 'Mont ', 'Montana ', 'Monte Negro ', 'Moore ', 'Morenci ', 'Morrison ', 'Mosizaote ', 'Mount Carlton ', 'Mount Charlotte ', 'Mount Kare ', 'Mount Leyshon ', 'Mount Milligan ', 'Mount Pleasant ', 'Mount Polley ', 'Muguayuan ', 'Mujicun ', 'Muratdere ', 'Murgul ', 'Mushan ', "N'yavlenga ", 'Nadun ', 'Nakhodka ', 'Nanmu ', 'Nannihu ', 'Naoniushan ', 'Naozhi ', 'Narigongma ', 'Nariniya ', 'Naruo ', 'Narusongduo ', 'Nating ', 'Neacola ', 'Nena ', 'Neoarchean ', 'Nevada ', 'Neves Corvo ', 'Newton ', 'Newtongmen ', 'Niaz ', 'Nihe ', 'Nimu ', 'Nistru ', 'Niutougou ', 'Nongping ', 'Norte ', 'Norway ', 'Now Chun ', 'Nowchun ', 'Nucleus ', 'Nuevo Chaquiro ', 'Nujiang ', 'Nuocang ', 'Nuri ', 'Nurkazgan ', 'Nyankanga ', 'Obuasi ', 'Ohui ', 'Ok Tedi ', 'Olympias ', 'Olympic Dam ', 'Omai ', 'Opache ', 'Oubulage ', 'Ouro Roxo ', 'Oyu Tolgoi ', 'Pakistan ', 'Pakistan Chagai ', 'Pangjiahe ', 'Pangui ', 'Panguna ', 'Panjia ', 'Panormos Bay ', 'Paodaoling ', 'Paradise Peak ', 'Parkam ', 'Pasco ', 'Pascua ', 'Patricia ', 'Peak Hill ', 'Pebble ', 'Pediment ', 'Penacho Blanco ', 'Perama Hill ', 'Perkoa ', 'Perseverance ', 'Peru ', 'Peschanka ', 'Petropavlovskoe ', 'Philex ', 'Phu Kham ', 'Pingdingshan ', 'Pingshui ', 'Pingtan ', 'Pingtoubei ', 'Pirquitas ', 'Plaka ', 'Plavica ', 'Poboya ', 'Poieni ', 'Pontides ', 'Porgera ', 'Portugal ', 'Postcollisional ', 'Precambrian ', 'Productora ', 'Prominent Hill ', 'Pueblo Viejo ', 'Pulang ', 'Pusangguo ', 'Puziwan ', 'Qarachilar ', 'Qiagong ', 'Qiangdui ', 'Qiaomaishan ', 'Qiaoxiahala ', 'Qibaoshan ', 'Qiguling ', 'Qimantage ', 'Qingcaoshan ', 'Qinglong ', 'Qiongheba ', 'Qiushuwan ', 'Qiyugou ', 'Quanzigou ', 'Quebrada Blanca ', 'Quellaveco ', 'Questa ', 'Qulong ', 'Radka ', 'Radomiro Tomic ', 'Radzimowice ', 'Raigan ', 'Reagan ', 'Reconnaissance ', 'Recsk ', 'Reko Diq ', 'Relin ', 'Renison ', 'Reshui ', 'Resolution ', 'Ridgeway ', 'Rio Blanco ', 'Rodeo ', 'Romania ', 'Rongga ', 'Rongna ', 'Rosario ', 'Rosia Poieni ', 'Ruanjiawan ', 'Ruoji ', 'Russia ', 'Sabagaogoumen ', 'Sadaigoumen ', 'Saibo ', 'Saindak ', 'Saishitang ', 'Salvadora ', 'Sams Creek ', 'San Blas ', 'San Jorge ', 'San Pedro ', 'Sancha ', 'Sanchakou ', 'Sandaozhuang ', 'Sandiao ', 'Sangan ', 'Sangbujiala ', 'Sangri ', 'Sanjiaowo ', 'Sankuanggou ', 'Sanshandao ', 'Santa Cruz ', 'Santa Rita ', 'Santa Rosa ', 'Sanyuangou ', 'Sar Cheshmeh ', 'Sarcheshmeh ', 'Sari Gunay ', 'Sarsuk ', 'Sarycheku ', 'Sawusi ', 'Sebuta ', 'Sechangi ', 'Sedex ', 'Seleteguole ', 'Sena ', 'Senj ', 'Serrinha ', 'Several ', 'Shadan ', 'Shakhtama ', 'Shamlugh ', 'Shangalon ', 'Shangfanggou ', 'Shanggusi ', 'Shangmushui ', 'Shapinggou ', 'Shapoling ', 'Sharang ', 'Shaxi ', 'Shedong ', 'Shengmikeng ', 'Shenshan ', 'Shesuo ', 'Shihu ', 'Shijiawan ', 'Shilu ', 'Shimadong ', 'Shimengou ', 'Shimensi ', 'Shipingchuan ', 'Shiweidong ', 'Shiwu ', 'Shiyaogou ', 'Shizhuyuan ', 'Shizilishan ', 'Shizishan ', 'Shizitou ', 'Shotgun ', 'Shuangjianzishan ', 'Shuangqishan ', 'Shuangshan ', 'Shuibaiyang ', 'Shujiadian ', 'Shujigou ', 'Shuteen ', 'Siah Kamar ', 'Sierrita ', 'Sigma ', 'Sin Quyen ', 'Single ', 'Sinongduo ', "Siruyidie'er ", 'Sisson Brook ', 'Skellefte Group ', 'Skouries ', 'Snowfield ', 'Songnuo ', 'Songshugou ', 'Songxi ', 'Sora ', 'South Wales ', 'Sovereign ', 'Spence ', 'Squaw Peak ', 'St Demetrios ', 'Starra ', 'Stawell Wonga ', 'Stikine ', 'Stypsi ', 'Suaqui Verde ', 'Such ', 'Sukhoi Log ', 'Summitville ', 'Sungun ', 'Sunrise Dam ', 'Suoerkuduke ', 'Sur ', 'Suyunhe ', 'Sweden ', 'Sweet Home ', 'Syama ', 'Taibudai ', 'Tainskoe ', 'Taipingchuan ', 'Taipinggou ', 'Taipingshan ', 'Takht ', 'Taking ', 'Talatui ', 'Taldy Bulak ', 'Taldybulak Levoberezhny ', 'Talitsa ', 'Tallberg ', 'Taloveis ', 'Tampakan ', 'Tangbula ', 'Tangjiaping ', 'Tangse ', 'Tangzhangzi ', 'Tanjeel ', 'Taocun ', 'Taohuazui ', 'Taolaituo ', 'Taolin ', 'Taoxihu ', 'Taqian ', 'Tarutinsk ', 'Tasite ', 'Taurus ', 'Tawuerbieke ', 'Taylor Creek ', 'Teniente ', 'Tepeoba ', 'Tertiary ', 'Thanewasna ', 'Tharsis ', 'Thirteen ', 'Tianhexing ', 'Tianhu ', 'Tianmugou ', 'Tiantang ', 'Tiantangshan ', 'Tiegelong ', 'Tiegelongnan ', 'Tien Shan ', 'Tieshan ', 'Tighza ', 'Tinggong ', 'Tintaya ', 'Tl ', 'Tocantinzinho ', 'Tolgoi ', 'Tominsk ', 'Tongchang ', 'Tongchanggou ', 'Tongcun ', 'Tonggou ', 'Tongguanshan ', 'Tongjing ', 'Tongkeng ', 'Tongkengzhang ', 'Tongkuangyu ', 'Tonglushan ', 'Tongmugou ', 'Tongshan ', 'Tongshankou ', 'Tongshanling ', 'Tonian ', 'Toquepala ', 'Toromocho ', 'Tosham ', 'Touzha ', 'Touzlar ', 'Tricolor ', 'Tsagaan Suvarga ', 'Tuanjiegou ', 'Tuketuke ', 'Tumen ', 'Turkish ', 'Turquoise Gulch ', 'Turquoise Ridge ', 'Tuwu ', 'Uchkoshkon ', 'Ujina ', 'Ulan Uzhur ', 'Ulandler ', 'Ulsan ', 'Unlike ', 'Urals ', 'Uranium ', 'Uspallata ', 'Vaikijaur ', 'Valea Morii ', 'Valley ', 'Variscan ', 'Veliki Krivelj ', 'Verde ', 'Victoria ', 'Vlaykov Vruh ', 'Voluntad ', 'Voznesensk ', 'Vysokogorskoe ', 'Wafi ', 'Waiorongomai ', 'Waisoi ', 'Walegen ', 'Wallaby ', 'Wanbaoyuan ', 'Wandao ', 'Wangjiazhuang ', 'Wangpingxigou ', 'Washan ', 'Wassa ', 'Weibao ', 'Weijia ', 'Weilasituo ', 'Weiquan ', 'Wenquan ', 'Weondong ', 'Widespread ', 'Witwatersrand ', 'Wolverine ', 'Wonga ', 'Woodlawn ', 'Woxi ', 'Wu ', 'Wudaogou ', 'Wulaga ', 'Wulandele ', 'Wulanwuzhuer ', 'Wulong ', 'Wunugetu ', 'Wunugetushan ', 'Wurinitu ', 'Wushan ', 'Wuziqilong ', 'Xiadeboli ', 'Xiadian ', 'Xiajinbao ', 'Xianglushan ', 'Xiangshan ', 'Xiaobaishitou ', 'Xiaodonggou ', 'Xiaoduobaoshan ', 'Xiaofan ', 'Xiaohekou ', 'Xiaohongshilazi ', 'Xiaohulishan ', 'Xiaojiashan ', 'Xiaojiayingzi ', 'Xiaokele ', 'Xiaokelehe ', 'Xiaoliugou ', 'Xiaolonghe ', 'Xiaonanshan ', 'Xiaorequanzi ', 'Xiaosigou ', 'Xiaotazigou ', 'Xiaotongjiapuzi ', 'Xiaotuergen ', 'Xiaowolong ', 'Xiaoxinancha ', 'Xiasai ', 'Xiatongling ', 'Xiayingfang ', 'Xiemisitai ', 'Xierqu ', 'Xietongmen ', 'Xifanping ', 'Xigou ', 'Xikuangshan ', 'Xilekuduke ', 'Xiletekehalasu ', 'Xiling ', "Xin'gaguo ", 'Xinan ', 'Xingjiashan ', 'Xingluokeng ', 'Xingmeng ', 'Xingshan ', 'Xinhualong ', 'Xinliaodong ', 'Xinping ', 'Xinqiao ', 'Xinxing ', 'Xiongcun ', 'Xiongmei ', 'Xishadegai ', 'Xishan ', 'Xiuwacu ', 'Xoconostle ', 'Xuejiping ', 'Xulaojiugou ', 'Yaguila ', 'Yaman Kasy ', 'Yanbei ', 'Yandong ', 'Yangbin ', 'Yangchang ', 'Yangchongli ', 'Yangchuling ', 'Yangdong ', 'Yanghuidongzi ', 'Yangjingou ', 'Yangla ', 'Yangshan ', 'Yanjiagou ', 'Yanshan Epoch ', 'Yanxi ', "Yao'an ", 'Yaochong ', 'Yaojiagou ', 'Yaojialing ', 'Yashan ', 'Yata ', 'Yazigou ', 'Yechangping ', 'Yejiwei ', 'Yemaquan ', 'Yerington ', 'Yili ', 'Yindonggou ', 'Yingchengzi ', 'Yingwuling ', 'Yinjiagou ', 'Yinkeng ', 'Yinshan ', 'Yinyan ', 'Yixingzhai ', 'Yongping ', 'Yongxin ', 'Youmapo ', "Yu'erya ", 'Yuanzhuding ', 'Yubileinoe ', 'Yuchiling ', 'Yudai ', 'Yuejinshan ', 'Yueyang ', 'Yuhai ', 'Yujiadian ', 'Yuku ', 'Yuleken ', 'Yulekenhalasu ', 'Yulong ', 'Yuntoujie ', 'Zafarghand ', 'Zalaga ', 'Zaldivar ', 'Zaozigou ', 'Zarshuran ', 'Zebuxia ', 'Zefreh ', 'Zelenodol ', 'Zhaceqiao ', 'Zhaiwa ', 'Zhangsangou ', 'Zhaxikang ', 'Zhengguang ', 'Zhenyuan ', 'Zhibula ', 'Zhifang ', 'Zhifanggou ', 'Zhilingtou ', 'Zhireken ', 'Zhonghe ', 'Zhongjia ', 'Zhongliao ', 'Zhongqiuyang ', 'Zhongtiaoshan ', 'Zhujiding ', 'Zhunsujihua ', 'Zhunuo ', 'Zhushahong ', 'Zhuxi ', 'Zhuxiling ', 'Zhuyuangou ', 'Zijinshan ', 'Zoujiashan ', 'Zudong ']
